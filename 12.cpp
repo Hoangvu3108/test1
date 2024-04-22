@@ -14,3 +14,4 @@ int main (){
 	if(snt(n)) printf("YES");
 	else printf("No");
 	}
+// Hoi cham luôn
